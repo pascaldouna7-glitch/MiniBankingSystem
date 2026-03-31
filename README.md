@@ -83,7 +83,7 @@ g++ main.cpp BankSystem.cpp -o bank
 
 ## 📸 Screenshot
 
-![App Screenshot](images/screenshot.png)
+![App screenshot](images/screenshot.png)
 
 ---
 
