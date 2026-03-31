@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "MSVC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Program Files/Microsoft Visual Studio/18/Community/SDK/ScopeCppSDK/vc15/VC/include",
+                "C:/Program Files/Microsoft Visual Studio/18/Community/SDK/ScopeCppSDK/vc15/SDK/include/ucrt",
+                "C:/Program Files/Microsoft Visual Studio/18/Community/SDK/ScopeCppSDK/vc15/SDK/include/um",
+                "C:/Program Files/Microsoft Visual Studio/18/Community/SDK/ScopeCppSDK/vc15/SDK/include/shared"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/Program Files/Microsoft Visual Studio/18/Community/SDK/ScopeCppSDK/vc15/VC/bin/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
