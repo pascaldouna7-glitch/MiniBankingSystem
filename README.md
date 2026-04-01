@@ -83,7 +83,7 @@ g++ main.cpp BankSystem.cpp -o bank
 
 ## 📸 Screenshot
 
-![App screenshot](images/screenshot.png)
+![App screenshot](https://github.com/pascaldouna7-glitch/MiniBankingSystem/blob/6f042b637ed671dedc3b5e3c6810c0b37d8cdfc9/screenshot.png)
 
 ---
 
